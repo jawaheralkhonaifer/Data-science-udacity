@@ -18,6 +18,10 @@ Download the dataset from: [https://survey.stackoverflow.co/](https://survey.sta
 
 Update the file path in the script if needed.
 
+### Acknowledgments:
+The dataset used in this project is sourced from the Stack Overflow Developer Survey, which provides valuable insights into developers' experiences, skills, and salaries.
+
+
 ### Requirements:
 - pandas
 - seaborn
